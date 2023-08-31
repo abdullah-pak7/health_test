@@ -1,5 +1,5 @@
 import 'package:health/health.dart';
-import 'package:health_test/blood_glucose.dart';
+import 'package:health_test/health_pkg_ext/blood_glucose.dart';
 
 class HealthRepository {
   final health = HealthFactory();

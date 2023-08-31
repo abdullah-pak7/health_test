@@ -1,7 +1,6 @@
 import 'package:flutter/cupertino.dart';
-import 'package:health/health.dart';
-import 'package:health_test/blood_glucose.dart';
-import 'package:health_test/health_repository.dart';
+import 'package:health_test/health_pkg_ext/blood_glucose.dart';
+import 'package:health_test/health_pkg_ext/health_repository.dart';
 
 class HomeController {
   final repository = HealthRepository();

@@ -29,9 +29,13 @@ environment:
 # versions available, run `flutter pub outdated`.
 dependencies:
   health: ^8.0.0
+  pedometer: ^4.0.1
   permission_handler: ^10.4.3
   firebase_auth: ^4.7.3
   firebase_core: ^2.15.1
+  percent_indicator: ^4.2.3
+  font_awesome_flutter: ^10.5.0
+  decimal: ^2.3.3
   flutter:
     sdk: flutter
 

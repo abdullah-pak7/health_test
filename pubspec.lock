@@ -57,6 +57,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.5"
+  decimal:
+    dependency: "direct main"
+    description:
+      name: decimal
+      sha256: "24a261d5d5c87e86c7651c417a5dbdf8bcd7080dd592533910e8d0505a279f21"
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.3.3"
   device_info_plus:
     dependency: transitive
     description:
@@ -168,6 +176,14 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  font_awesome_flutter:
+    dependency: "direct main"
+    description:
+      name: font_awesome_flutter
+      sha256: "5fb789145cae1f4c3245c58b3f8fb287d055c26323879eab57a7bf0cfd1e45f3"
+      url: "https://pub.dev"
+    source: hosted
+    version: "10.5.0"
   health:
     dependency: "direct main"
     description:
@@ -240,6 +256,22 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.8.3"
+  pedometer:
+    dependency: "direct main"
+    description:
+      name: pedometer
+      sha256: e8c574dae778276fa848873c6ea2015a636a91e8572a4a652b04a4fcd6c54259
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.0.1"
+  percent_indicator:
+    dependency: "direct main"
+    description:
+      name: percent_indicator
+      sha256: c37099ad833a883c9d71782321cb65c3a848c21b6939b6185f0ff6640d05814c
+      url: "https://pub.dev"
+    source: hosted
+    version: "4.2.3"
   permission_handler:
     dependency: "direct main"
     description:
@@ -288,6 +320,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.5"
+  rational:
+    dependency: transitive
+    description:
+      name: rational
+      sha256: ba58e9e18df9abde280e8b10051e4bce85091e41e8e7e411b6cde2e738d357cf
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.2.2"
   sky_engine:
     dependency: transitive
     description: flutter

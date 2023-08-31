@@ -1,6 +1,7 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:health_test/home_page.dart';
+import 'package:health_test/health_pkg_ext/home_page.dart';
+import 'package:health_test/step_counter_pkg/home_page_2.dart';
 import 'package:permission_handler/permission_handler.dart';
 
 void main() async {
@@ -25,7 +26,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: HomePage(),
+      home: Home2(),
     );
   }
 }
